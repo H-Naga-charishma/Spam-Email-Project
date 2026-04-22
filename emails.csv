@@ -1,0 +1,17 @@
+text,label
+"Win a free iPhone now",spam
+"Congratulations you have won money",spam
+"Claim your prize now",spam
+"Limited offer click here",spam
+"Earn money fast online",spam
+"Exclusive deal just for you",spam
+"Click here to win cash",spam
+
+"Hey are we meeting today?",ham
+"Please send the assignment",ham
+"Let's study together",ham
+"Call me when you're free",ham
+"Are you coming to class?",ham
+"Submit your homework by today",ham
+"Can we talk later?",ham
+"Meeting is scheduled tomorrow",ham
